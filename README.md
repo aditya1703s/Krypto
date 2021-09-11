@@ -1,4 +1,7 @@
-This is a bitcoin price alerting system task.
+Introduction:
+
+This is a bitcoin price alerting system. It alerts the user via mail as soon as the price crosses the desired value whether the user is being bullish or bearish for the coin. The API used for the task is coingecko which provides free API to get crypto details.
+
 
 Usage:
 1. Run the .py file provided.
